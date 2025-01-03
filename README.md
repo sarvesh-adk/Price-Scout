@@ -1,6 +1,6 @@
-# PriceScout
+# Price Scout
 
-**PriceScout** is a price comparison tool that helps users find the best deals by fetching real-time prices from multiple e-commerce platforms like Amazon, eBay, and Walmart.
+**Price Scout** is a price comparison tool that helps users find the best deals by fetching real-time prices from multiple e-commerce platforms like Amazon, eBay, and Walmart.
 
 ## Features
 - Search for a product and compare prices across various platforms.
