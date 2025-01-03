@@ -17,5 +17,5 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/PriceScout.git
+git clone https://github.com/sarvesh-adk/Price-Scout.git
 cd PriceScout
