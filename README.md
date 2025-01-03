@@ -8,7 +8,7 @@
 - Integrates with popular e-commerce platforms such as Amazon, eBay, and Walmart.
 
 ## Technologies Used
-- **Backend**: Python (Flask/Django) or Node.js (Express)
-- **Web Scraping**: BeautifulSoup, Scrapy, Selenium
-- **Frontend**: HTML, CSS, JavaScript (Vanilla or React)
-- **Database**: MySQL, PostgreSQL, or MongoDB (if applicable)
+- **Backend**: Node.js
+- **Web Scraping**: Scrapy
+- **Frontend**: React
+- **Database**: MongoDB
